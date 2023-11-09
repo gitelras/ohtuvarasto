@@ -20,7 +20,7 @@ jobs:
         run: pip install poetry
       - name: Install dependencies
         run: poetry install
-	run: poetry add --dev coverage
+	run: poetry add coverage --group dev
       - name: Check installed packages
         run: poetry show
       - name: Run tests
