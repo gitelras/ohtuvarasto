@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: poetry install
       - name: Add coverage to dependencies
-	run: poetry add --dev coverage
+	      run: poetry add --dev coverage
       - name: Check installed packages
         run: poetry show
       - name: Run tests
