@@ -1,5 +1,5 @@
 # ohtuvarasto
-![GHA worflow badge](https://github.com/ellamatilda/ohtuvarasto/actions/workflows/main.yml/badge.svg)
+![GHA worflow badge](https://github.com/gitelras/ohtuvarasto/actions/workflows/main.yml/badge.svg)
 
 
 
