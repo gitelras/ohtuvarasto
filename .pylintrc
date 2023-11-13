@@ -22,7 +22,7 @@ argument-naming-style = snake_case
 
 [FORMAT]
 
-max-line-lenght = 80
+max-line-length = 80
 
 [REFACTORING]
 
